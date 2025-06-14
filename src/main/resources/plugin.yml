@@ -3,7 +3,7 @@ version: 2.0.3
 name: MineChess
 api-version: 1.13
 author: Ajneb97
-softdepend: [Multiverse-Core,PlaceholderAPI]
+softdepend: [Multiverse-Core, PlaceholderAPI, Denizen]
 
 commands:
   minechess:
